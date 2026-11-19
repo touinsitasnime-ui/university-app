@@ -1,0 +1,7 @@
+.div1 h1 { front-size: 20px;}
+.photo {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+}
